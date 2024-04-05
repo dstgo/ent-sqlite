@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/dstgo/ent-sqlite/testdata/ent"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

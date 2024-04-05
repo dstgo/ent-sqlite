@@ -4,7 +4,7 @@ package user
 
 import (
 	"entgo.io/ent/dialect/sql"
-	"github.com/dstgo/ent-sqlite/testdata/ent/predicate"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/predicate"
 )
 
 // ID filters vertices based on their ID field.

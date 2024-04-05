@@ -5,12 +5,12 @@ package enttest
 import (
 	"context"
 
-	"github.com/dstgo/ent-sqlite/testdata/ent"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent"
 	// required by schema hooks.
-	_ "github.com/dstgo/ent-sqlite/testdata/ent/runtime"
+	_ "github.com/ginx-contribs/ent-sqlite/testdata/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
-	"github.com/dstgo/ent-sqlite/testdata/ent/migrate"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/migrate"
 )
 
 type (

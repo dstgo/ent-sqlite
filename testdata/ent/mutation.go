@@ -10,7 +10,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/dstgo/ent-sqlite/testdata/ent/predicate"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/predicate"
 )
 
 const (

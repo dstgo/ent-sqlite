@@ -10,8 +10,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/dstgo/ent-sqlite/testdata/ent/predicate"
-	"github.com/dstgo/ent-sqlite/testdata/ent/user"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/predicate"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/user"
 )
 
 // UserUpdate is the builder for updating User entities.

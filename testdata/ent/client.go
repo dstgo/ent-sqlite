@@ -9,12 +9,12 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/dstgo/ent-sqlite/testdata/ent/migrate"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/migrate"
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"
-	"github.com/dstgo/ent-sqlite/testdata/ent/user"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/user"
 )
 
 // Client is the client that holds all ent builders.

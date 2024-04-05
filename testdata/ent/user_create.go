@@ -8,7 +8,7 @@ import (
 
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/dstgo/ent-sqlite/testdata/ent/user"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent/user"
 )
 
 // UserCreate is the builder for creating a User entity.
