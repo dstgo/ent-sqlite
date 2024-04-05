@@ -2,7 +2,7 @@ package ent_sqlite
 
 import (
 	"context"
-	"github.com/dstgo/ent-sqlite/testdata/ent"
+	"github.com/ginx-contribs/ent-sqlite/testdata/ent"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

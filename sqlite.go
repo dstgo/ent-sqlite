@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"modernc.org/sqlite"
+	"github.com/glebarez/go-sqlite"
 )
 
 func init() {
