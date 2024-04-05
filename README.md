@@ -3,13 +3,14 @@ this is an ent sqlite driver adapter, because ent must use foreignkey.
 
 # install
 ```bash
-go get github.com/dstgo/ent-sqlite@latest
+go get github.com/ginx-contribs/ent-sqlite@latest
 ```
 
 # example
 ```go
 import (
-    _ "github.com/dstgo/ent-sqlite"
+    _   "github.com/ginx-contribs/ent-sqlite"
+        "your_project/ent"
 )
 
 
